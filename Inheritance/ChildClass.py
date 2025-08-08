@@ -8,3 +8,5 @@ class Bike(Vehicle):
 bike1 = Bike("Bike","Bajaj","Red")
 
 print("Type: "+ bike1.type+" Brand: "+bike1.brand+" Color: "+bike1.color)
+
+#this is single inheritance, There are multiple, malilevel, hybrid, hierarchical, inheritance. but some languages do not support multiple inheritance.(like java)
